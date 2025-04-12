@@ -1,7 +1,7 @@
 ## 🔧 Установка и запуск
 Впиши в консоль по очереди
 
-[https://github.com/DTR322/Tapigo_test.git]
+{[[https://github.com/DTR322/Tapigo_test.git]]}
 
 (npm install)
 
