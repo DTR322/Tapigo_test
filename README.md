@@ -3,8 +3,8 @@
 
 `https://github.com/DTR322/Tapigo_test.git`
 
-(npm install)
+`npm install`
 
-(npm run serve)
+`npm run serve`
 
-Открой в браузере http://localhost:8080
+Открой в браузере `http://localhost:8080`
